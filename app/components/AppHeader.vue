@@ -12,7 +12,7 @@
         <a href="#equipe" class="hover:text-[#00E0FF] transition-colors">Equipe</a>
       </nav>
       
-      <a href="#contato" class="hidden md:inline-flex items-center gap-2 bg-[#00E0FF] hover:bg-[#00B3CC] text-[#0A1128] px-6 py-2.5 rounded-lg transition-all font-bold shadow-[0_0_15px_rgba(0,224,255,0.4)] hover:shadow-[0_0_25px_rgba(0,224,255,0.6)]">
+      <a href="https://wa.me/556191256418" target="_blank" class="hidden md:inline-flex items-center gap-2 bg-[#00E0FF] hover:bg-[#00B3CC] text-[#0A1128] px-6 py-2.5 rounded-lg transition-all font-bold shadow-[0_0_15px_rgba(0,224,255,0.4)] hover:shadow-[0_0_25px_rgba(0,224,255,0.6)]">
         Quero meu Site
       </a>
       

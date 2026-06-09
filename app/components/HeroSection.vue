@@ -20,7 +20,7 @@
       </p>
       
       <div class="flex flex-col sm:flex-row gap-6 w-full justify-center">
-        <a href="#contato" class="bg-[#00E0FF] hover:bg-[#00B3CC] text-[#0A1128] px-8 py-4 rounded-xl text-center transition-all shadow-[0_0_20px_rgba(0,224,255,0.4)] hover:shadow-[0_0_30px_rgba(0,224,255,0.6)] font-bold text-lg flex items-center justify-center gap-2">
+        <a href="https://wa.me/556191256418" target="_blank" class="bg-[#00E0FF] hover:bg-[#00B3CC] text-[#0A1128] px-8 py-4 rounded-xl text-center transition-all shadow-[0_0_20px_rgba(0,224,255,0.4)] hover:shadow-[0_0_30px_rgba(0,224,255,0.6)] font-bold text-lg flex items-center justify-center gap-2">
           Garantir Meu Site Agora
           <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6"></path></svg>
         </a>
